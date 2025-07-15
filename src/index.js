@@ -1,2 +1,2 @@
 console.log('index.js');
-console.log('ver2.0.0');
+console.log('ver3.0.0');
